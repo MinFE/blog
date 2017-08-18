@@ -1,0 +1,108 @@
+# Site
+language: zh-cn
+
+# URL
+url: http://blog.minfive.com
+root: /
+permalink: :year/:month/:day/:title/
+permalink_defaults:
+
+# Directory
+source_dir: source
+public_dir: public
+tag_dir: tags
+archive_dir: archives
+category_dir: categories
+code_dir: downloads/code
+i18n_dir: :lang
+skip_render:
+
+# Writing
+new_post_name: :title.md # File name of new posts
+default_layout: post
+titlecase: true # Transform title into titlecase
+external_link: true # Open external links in new tab
+filename_case: 0
+render_drafts: false
+post_asset_folder: false
+relative_link: false
+future: true
+highlight:
+  enable: true
+  line_number: true
+  auto_detect: false
+  tab_replace:
+
+# Category & Tag
+default_category: uncategorized
+category_map:
+tag_map:
+
+# Date / Time format
+date_format: ll
+time_format: HH:mm:ss
+
+# Pagination
+per_page: 12
+pagination_dir: page
+
+# Extensions
+theme: hexo-theme-skapp
+
+# Deployment
+deploy:
+  type: git
+  repo: git@github.com:Mrminfive/Mrminfive.github.io.git
+  branch: master
+
+# Feed Atom
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+
+# Lunr
+lunr:
+  field: all
+  fulltext: false
+  path: assets/lunr/
+
+# Sitemap
+sitemap:
+  path: sitemap.xml
+
+# hexo-neat
+neat_enable: true
+neat_html:
+  enable: true
+  exclude:
+    - 'baidu_verify_lBEZd5Eyfg.html'
+    - 'googlefd247a6616e15095.html'
+    - 'BingSiteAuth.xml'
+  
+neat_css:
+  enable: true
+  exclude:
+    - '*.min.css'
+neat_js:
+  enable: true
+  mangle: true
+  output:
+  compress:
+  exclude:
+    - '*.min.js'
+
+
+# Develop
+# Sass
+node_sass:
+  outputStyle: nested
+  precision: 5
+  sourceComments: false
+
+# Autoprefixer
+autoprefixer:
+  exclude:
+    - '*.min.css'
+  browsers:
+    - 'last 2 versions'
