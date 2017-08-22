@@ -23,6 +23,9 @@
     "url": "https://github.com/MinFE/blog/issues"
   },
   "homepage": "https://github.com/MinFE/blog#readme",
+  "hexo": {
+    "version": "3.3.8"
+  },
   "devDependencies": {
     "hexo": "^3.3.8",
     "hexo-autoprefixer": "^1.0.0",
