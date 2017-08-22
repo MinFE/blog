@@ -106,3 +106,9 @@ autoprefixer:
     - '*.min.css'
   browsers:
     - 'last 2 versions'
+
+# Fragments
+fragments_generator:
+  dir: fragments
+  per_page: 24
+  index_dir: index
