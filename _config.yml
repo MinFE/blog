@@ -4,7 +4,7 @@ language: zh-cn
 # URL
 url: http://blog.minfive.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :year/:month/:day/:id/
 permalink_defaults:
 
 # Directory
@@ -50,14 +50,14 @@ pagination_dir: page
 index_generator:
   order_by: -date
 
+# Extensions
+theme: hexo-theme-skapp
+
 # Lunr
 lunr:
   field: all
   fulltext: false
   path: assets/lunr/
-
-# Extensions
-theme: hexo-theme-skapp
 
 # Deployment
 deploy:
