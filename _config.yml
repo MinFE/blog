@@ -23,7 +23,7 @@ default_layout: post
 titlecase: true # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
-render_drafts: false
+render_drafts: true
 post_asset_folder: false
 relative_link: false
 future: true
@@ -46,6 +46,16 @@ time_format: HH:mm:ss
 per_page: 12
 pagination_dir: page
 
+# generator-index
+index_generator:
+  order_by: -date
+
+# Lunr
+lunr:
+  field: all
+  fulltext: false
+  path: assets/lunr/
+
 # Extensions
 theme: hexo-theme-skapp
 
@@ -61,36 +71,9 @@ feed:
   path: atom.xml
   limit: 20
 
-# Lunr
-lunr:
-  field: all
-  fulltext: false
-  path: assets/lunr/
-
 # Sitemap
 sitemap:
   path: sitemap.xml
-
-# hexo-neat
-neat_enable: true
-neat_html:
-  enable: true
-  exclude:
-    - 'baidu_verify_lBEZd5Eyfg.html'
-    - 'googlefd247a6616e15095.html'
-    - 'BingSiteAuth.xml'
-  
-neat_css:
-  enable: true
-  exclude:
-    - '*.min.css'
-neat_js:
-  enable: true
-  mangle: true
-  output:
-  compress:
-  exclude:
-    - '*.min.js'
 
 
 # Develop
@@ -107,8 +90,45 @@ autoprefixer:
   browsers:
     - 'last 2 versions'
 
-# Fragments
-fragments_generator:
-  dir: fragments
-  per_page: 24
-  index_dir: index
+# filter_cleanup
+hfc_useref:
+  enable: true
+  concat: true
+
+hfc_html:
+  enable: true
+  exclude:
+
+hfc_css:
+  enable: true
+  exclude: 
+    - '*.min.css'
+
+hfc_js:
+  enable: true
+  mangle: true
+  exclude: 
+    - '*.min.js'
+
+hfc_img:
+  enable: true
+  interlaced: false
+  multipass: false
+  optimizationLevel: 2
+  pngquant: false
+  progressive: false
+
+hfc_favicons:
+  enable: false
+  src: img/blog-logo.png
+  target: img/
+  icons:
+    android: true
+    appleIcon: true
+    appleStartup: false
+    coast: false
+    favicons: true
+    firefox: false
+    opengraph: false
+    windows: true
+    yandex: false
