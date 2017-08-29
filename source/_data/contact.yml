@@ -14,3 +14,7 @@
   name: minfive
   icon: icon-email
   link: mailto:chenxiaowu1994@outlook.com
+- title: rss
+  name: rss
+  icon: icon-rss
+  link: /atom.xml
