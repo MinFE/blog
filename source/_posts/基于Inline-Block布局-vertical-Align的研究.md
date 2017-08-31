@@ -9,7 +9,7 @@ tags:
   - 百度ife
 author:
     nick: minfive
-    github: https://github.com/Mrminfive
+    link: https://github.com/Mrminfive
 ---
 
 > 前言：这个探究主要源于ife任务6的一个布局困扰，继而产生以下这些探究及结论，如解释有误或有新的见解，请及时与我联系，谢谢大家的捧场。

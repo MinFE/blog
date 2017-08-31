@@ -9,7 +9,7 @@ tags:
     - 代码规范
 author:
   nick: minfive
-  github: 'https://github.com/Mrminfive'
+  link: 'https://github.com/Mrminfive'
 ---
 
 ### 前言
