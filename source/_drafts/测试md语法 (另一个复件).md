@@ -4,6 +4,7 @@ cover: //img.aotu.io/Manjiz/2015/manjiz-151116-cover.png
 draft: true
 date: 2017-07-30, 15:04:04
 categories: 开发
+layout: false
 tags:
 	- Markdown
 	- demo

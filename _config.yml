@@ -6,7 +6,7 @@ language: zh-cn
 # URL
 url: http://blog.minfive.com
 root: /
-permalink: :year/:month/:day/:id/
+permalink: :year/:month/:day/:title/
 permalink_defaults:
 
 # Directory
