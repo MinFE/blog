@@ -16,8 +16,6 @@ author:
 
 ### 前言
 
-------
-
 文章假设读者了解并使用过 git ，不熟悉的同学请移步 [pro git][proGit]。
 
 使用过 git 来做版本控制的同学应该都知道每次提交修改 `git commit` 时，git 总会强制要求填写提交说明，否则不允许提交。填写的格式不限，内容也不限，当然为了提高项目的可维护性，commit message 做适当的格式要求是必要的，不说 review 起来方便，就冲看起来格式规整这一点，看起来都舒服得多了。
@@ -99,8 +97,6 @@ This reverts commit ca1b58f63fcaa2ae763a5604e5b46e802d83105c.
 * 关联 issues: 用于关闭相应 issues。
 
 ### 高效使用
-
-------
 
 上边介绍了如何按规范写 commit message，那么下面教你如何利用工具更高效的使用这套规范。
 
@@ -255,8 +251,6 @@ npm install --save-dev standard-version
 
 
 ### 参考文献
-
-------
 
 * [Commit message 和 Change log 编写指南][Commit message 和 Change log 编写指南]
 * [［译］AngularJS Git提交信息规范][［译］AngularJS Git提交信息规范]
