@@ -134,3 +134,9 @@ hfc_favicons:
     opengraph: false
     windows: true
     yandex: false
+
+# Busuanzi
+busuanzi: true
+
+# Baidu statistic
+baidu_statistic: e3267498201dfa9699a5c509424709d6
