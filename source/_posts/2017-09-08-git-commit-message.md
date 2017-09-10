@@ -257,7 +257,7 @@ npm install --save-dev standard-version
 * [Pro Git book][proGit]
 
 [proGit]: https://git-scm.com/book/zh/v2
-[gitCommit]: http://oo12ugek5.bkt.clouddn.com/blog/images/17-09-07/git-commit-1.png
+[gitCommit]: http://oo12ugek5.bkt.clouddn.com/blog/images/17-09-07/git-commit-bad.png
 [angularCommit]: http://oo12ugek5.bkt.clouddn.com/blog/images/17-09-07/angular-commit.png
 [commitNorm]: https://github.com/conventional-changelog/conventional-changelog
 [commitNormList]: http://oo12ugek5.bkt.clouddn.com/blog/images/17-09-07/commit-norm-list.png

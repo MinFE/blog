@@ -140,3 +140,12 @@ busuanzi: true
 
 # Baidu statistic
 baidu_statistic: e3267498201dfa9699a5c509424709d6
+
+# Gitalk
+gitTalk:
+  clientId: fb94bfd31f8b097f6ba1
+  clientSecret: 8143d1da1e4189b423189357d58e379a9f7893a2
+  repo: Mrminfive.github.io
+  owner: Mrminfive
+  admin: 
+    - Mrminfive
