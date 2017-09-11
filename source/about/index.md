@@ -5,7 +5,7 @@ type: about
 layout: about
 ---
 
-## 关于我
+### 关于我
 
 > 一个有着百度情结的小菜鸟，在前端路上不停爬行。[在线简历 Online CV](http://blog.minfive.com/)
 
@@ -13,7 +13,14 @@ layout: about
 热爱美好失误，热爱独立音乐，热爱国学，崇尚自由，是个十足的愤青伪文艺，如臭味相投，欢迎交流。
 
 
-## 建站初衷
+以下是我的联系方式
+
+* 邮件: [chenxiaowu1994@outlook.com](mailto:chenxiaowu1994@outlook.com)
+* github: [https://github.com/Mrminfive](https://github.com/Mrminfive)
+* 其它方式: [知乎](https://www.zhihu.com/people/zuo-er-duo-dong-wu)、[微博](http://weibo.com/p/1005056092592491)
+
+
+### 建站初衷
 
 > 记录成长路上的风景
 
