@@ -26,6 +26,7 @@ layout: about
 
 | 时间       | 事件     |
 | --------   | -----   |
+| 2017-09-12 | 从头搭建个人 hexo-theme-skapp 主题，并正式开源，地址 [hexo-theme-skapp](https://github.com/Mrminfive/hexo-theme-skapp)  |
 | 2017-08-01 | 模仿 [凹凸实验室](https://aotu.io) 从头写了一个自己的主题，主题名叫 mb 。 |
 | 2016-03-09 | 初步使用 `hexo next` 主题搭建好静态博客。然后界面很无耻的使用默认的样式，还没有修改。 |
 | 2015-12-20 | 学习 git 的时候接触到 GitHub 从而了解到 GitHub Pages 于是想着自己用 hexo 搭了一个博客，再然后也不了了之了 |
