@@ -100,6 +100,7 @@ hfc_useref:
 hfc_html:
   enable: true
   exclude:
+    - 'baidu_verify_*.html'
 
 hfc_css:
   enable: true
