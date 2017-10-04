@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/MinFE/blog#readme",
   "hexo": {
-    "version": "3.3.8"
+    "version": "3.3.9"
   },
   "devDependencies": {
     "hexo": "^3.3.8",
