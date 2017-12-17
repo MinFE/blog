@@ -153,7 +153,7 @@ factorial(3) // Let's call the factorial function and see what happens
 
 这是第一段：
 
-``` js
+```
 Trace
     at factorial (repl:2:9)
     at repl:1:1 // Ignore everything below this line, it's just implementation details
@@ -169,7 +169,7 @@ Trace
 
 看到了吧，第一个调用栈只包含对 `factorial` 函数的第一次调用，也就是 `factorial(3)`。接下来就有意思了：
 
-``` js
+```
 Trace
     at factorial (repl:2:9)
     at factorial (repl:7:12)
@@ -187,7 +187,7 @@ Trace
 
 这是调用 `factorial(1)` 时的栈：
 
-``` js
+```
 Trace
     at factorial (repl:2:9)
     at factorial (repl:7:12)
@@ -205,7 +205,7 @@ Trace
 
 最后是调用 `factorial(0)` 时的调用栈：
 
-``` js
+```
 Trace
     at factorial (repl:2:9)
     at factorial (repl:7:12)
@@ -301,7 +301,7 @@ factorial(3)
 
 你会发现，虽然这个函数已经是尾递归的了，但栈中仍然保存了多次对 `factorial` 函数的调用：
 
-``` js
+```
 // ...
 // These are the last two calls to the `factorial` function
 Trace
@@ -355,7 +355,7 @@ $ node --harmony_tailcalls factorial.js`
 
 再次运行后，得到如下栈跟踪信息：
 
-``` js
+```
 Trace
     at factorial (/Users/lucasfcosta/factorial.js:4:13)
     at Object.&lt;anonymous&gt; (/Users/lucasfcosta/factorial.js:12:1)
