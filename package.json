@@ -6,7 +6,7 @@
   "scripts": {
     "build": "hexo g -w",
     "push": "hexo g -d",
-    "dev": "hexo s",
+    "dev": "hexo s -l",
     "clear": "hexo clean"
   },
   "repository": {
