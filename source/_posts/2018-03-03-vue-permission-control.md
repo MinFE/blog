@@ -1,6 +1,6 @@
 ---
 title: 关于 vue 的路由权限管理
-subtitle: 使用 css 去捕获用户密码，最容易忽视的往往是最容易出现问题的，安全问题不容小觑。
+subtitle: 曾经在工作上对 vue 路由权限管理这方面有过研究，这几天又看到了几篇相关的文章，再加上昨天电面中又再一次提及到，就索性整理了一下自己的一些看法，希望对大家有帮助。
 date: 2018-03-03
 cover: http://oo12ugek5.bkt.clouddn.com/blog/images/18-03-03/vue-router.jpg
 categories: 经验总结
