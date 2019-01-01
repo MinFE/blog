@@ -2,7 +2,7 @@
 title: 使用 git rebase 美化 git commit 流程
 subtitle: 上篇文章讲到 commit message 规范，git 版本控制在日常团队协作中有着极其重要的作用，除了对 git 的 commit 信息进行规范化管理之外，还可以对 git 的 commit 做一些补丁修饰，即 git rebase。
 date: 2017-10-06
-cover: http://oo12ugek5.bkt.clouddn.com/blog/images/post/17-10-06/git-rebase-cover.png
+cover: http://blog.static.minfive.com/post/17-10-06/git-rebase-cover.png
 categories: 经验总结
 tags:
     - git
@@ -116,11 +116,11 @@ git branch -b minfive
 [proGit]: https://git-scm.com/book/zh/v2
 [git-community-book]: http://gitbook.liuhui998.com/4_2.html
 [commit-message-post]: /2017/09/08/2017-09-08-git-commit-message/
-[git-log]: http://oo12ugek5.bkt.clouddn.com/blog/images/post/17-10-06/git-log-oneline.png
-[git-rebase-commit]: http://oo12ugek5.bkt.clouddn.com/blog/images/post/17-10-06/git-rebase-commit.png
-[git-rebase-1]: http://oo12ugek5.bkt.clouddn.com/blog/images/post/17-10-06/basic-rebase-1.png
-[git-rebase-2]: http://oo12ugek5.bkt.clouddn.com/blog/images/post/17-10-06/basic-rebase-2.png
-[git-rebase-3]: http://oo12ugek5.bkt.clouddn.com/blog/images/post/17-10-06/basic-rebase-4.png
-[git-rebase]: http://oo12ugek5.bkt.clouddn.com/blog/images/post/17-10-06/git-rebase.png
-[git-merge]: http://oo12ugek5.bkt.clouddn.com/blog/images/post/17-10-06/git-merge.png
+[git-log]: http://blog.static.minfive.com/post/17-10-06/git-log-oneline.png
+[git-rebase-commit]: http://blog.static.minfive.com/post/17-10-06/git-rebase-commit.png
+[git-rebase-1]: http://blog.static.minfive.com/post/17-10-06/basic-rebase-1.png
+[git-rebase-2]: http://blog.static.minfive.com/post/17-10-06/basic-rebase-2.png
+[git-rebase-3]: http://blog.static.minfive.com/post/17-10-06/basic-rebase-4.png
+[git-rebase]: http://blog.static.minfive.com/post/17-10-06/git-rebase.png
+[git-merge]: http://blog.static.minfive.com/post/17-10-06/git-merge.png
 [demo]: https://github.com/MinFE/git-rebase-demo

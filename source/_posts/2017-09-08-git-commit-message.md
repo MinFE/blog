@@ -2,7 +2,7 @@
 title: commit message 规范 及自动化 changelog
 subtitle: 使用过 git 来做版本控制的同学应该都知道每次提交修改 `git commit` 时，git 总会强制要求填写提交说明，否则不允许提交。填写的格式不限，内容也不限，当然为了提高项目的可维护性，commit message 做适当的格式要求是必要的，不说 review 起来方便，就冲看起来格式规整这一点，看起来都舒服得多了
 date: 2017-09-08, 00:52:53 GMT+0800
-cover: http://oo12ugek5.bkt.clouddn.com/blog/images/17-09-07/git.jpg
+cover: http://blog.static.minfive.com/post/17-09-07/git.jpg
 categories: 日常学习
 tags:
     - 学习
@@ -257,10 +257,10 @@ npm install --save-dev standard-version
 * [Pro Git book][proGit]
 
 [proGit]: https://git-scm.com/book/zh/v2
-[gitCommit]: http://oo12ugek5.bkt.clouddn.com/blog/images/17-09-07/git-commit-bad.png
-[angularCommit]: http://oo12ugek5.bkt.clouddn.com/blog/images/17-09-07/angular-commit.png
+[gitCommit]: http://blog.static.minfive.com/post/17-09-07/git-commit-bad.png
+[angularCommit]: http://blog.static.minfive.com/post/17-09-07/angular-commit.png
 [commitNorm]: https://github.com/conventional-changelog/conventional-changelog
-[commitNormList]: http://oo12ugek5.bkt.clouddn.com/blog/images/17-09-07/commit-norm-list.png
+[commitNormList]: http://blog.static.minfive.com/post/17-09-07/commit-norm-list.png
 [cz-cli]: https://github.com/commitizen/cz-cli#making-your-repo-commitizen-friendly
 [pro-git-alias]: https://git-scm.com/book/zh/v2/Git-%E5%9F%BA%E7%A1%80-Git-%E5%88%AB%E5%90%8D
 [validate-commit-msg]: https://github.com/conventional-changelog/validate-commit-msg
