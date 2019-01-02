@@ -2,7 +2,7 @@
 title: 客户端存储indexedDB探究
 subtitle: Indexed Database API,是在浏览器中保存结构化数据的一种数据库。
 date: 2016-05-15
-cover: http://blog.static.minfive.com/post/dbdm-large.png
+cover: http://blog.static.minfive.com/post/16-05-15/dbdm-large.png
 categories: 日常学习
 tags:
     - 学习
