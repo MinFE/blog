@@ -1,7 +1,7 @@
 ---
 title: 关于Javascript正则的'反向引用'
 subtitle: 了解关于javascript正则'反向引用'的一些知识及使用。
-cover: http://blog.static.minfive.com/post/maxresdefault.jpg
+cover: https://blog.static.minfive.com/post/maxresdefault.jpg
 date: 2016-03-09
 categories: 日常学习
 tags:

@@ -2,7 +2,7 @@
 title: 读《用户体验要素》总结
 subtitle: 《用户体验要素》这本书其实更适合叫《产品设计要素》，书中作者梳理了产品设计中的一些概念及方法，涵盖产品的整个生命周期，对于提高产品意识有极大的帮助。
 date: 2018-08-05
-cover: http://blog.static.minfive.com/post/18-08-05/843d1948e85e20653861c115389cc7cf.jpg
+cover: https://blog.static.minfive.com/post/18-08-05/843d1948e85e20653861c115389cc7cf.jpg
 categories: 读书笔记
 tags:
     - 产品
@@ -69,4 +69,4 @@ author:
 
 全书中作者都在以广义的层面去阐述 “用户体验”，深入产品设计的方方面面。所谓的 “用户体验” 更多的是指 “以用户为核心” 产品设计理念 **共鸣**、**专注**、**灌输**，不仅仅在乎、重视客户的体验，也需要引导、提升他们的所感所知。
 
-[五层架构]: http://blog.static.minfive.com/post/18-08-05/0081cd79264982c228c6fcebeab04d15.jpg
+[五层架构]: https://blog.static.minfive.com/post/18-08-05/0081cd79264982c228c6fcebeab04d15.jpg

@@ -2,7 +2,7 @@
 title: 微信视频 h5 开发小结
 subtitle: 近日，由于工作原因，需要开发一款视频类 h5。玩法很简单，用户滚页面至底部，切换全屏视频播放。
 date: 2017-12-11
-cover: http://blog.static.minfive.com/post/17-12-11/WeChat-logo.jpg
+cover: https://blog.static.minfive.com/post/17-12-11/WeChat-logo.jpg
 categories: 经验总结
 tags:
     - wechat
@@ -89,6 +89,6 @@ document.addEventListener('DOMContentLoaded', function() {
 * [微信内置浏览器 如何小窗不全屏播放视频？][微信内置浏览器 如何小窗不全屏播放视频？]
 
 
-[vip10-08]: http://blog.static.minfive.com/post/17-12-11/0c05c64de7df694e1b4fa5ea99f3ddb8.png
+[vip10-08]: https://blog.static.minfive.com/post/17-12-11/0c05c64de7df694e1b4fa5ea99f3ddb8.png
 [video 标签在微信浏览器的问题解决方法]: http://www.cnblogs.com/baiyygynui/p/6323565.html
 [微信内置浏览器 如何小窗不全屏播放视频？]: https://www.zhihu.com/question/36423771
