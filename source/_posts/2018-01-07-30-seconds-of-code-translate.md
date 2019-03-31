@@ -2,7 +2,7 @@
 title: 30s代码片段翻译
 subtitle: 这是对 github 上《30-seconds-of-code》的翻译整理，整理了放到博客上供大家学习参考，后续会持续跟进翻译。
 date: 2018-01-07
-cover: https://blog.static.minfive.com/post/18-01-07/30-secinds-of-code.png
+cover: http://blog.static.minfive.com/post/18-01-07/30-secinds-of-code.png
 categories: 日常学习
 tags:
     - javascript

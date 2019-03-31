@@ -2,7 +2,7 @@
 title: JavaScript中的递归、PTC、TCO和STC
 subtitle: 本文将通过图示的方法讨论递归，讨论什么是PTC、TCO（Tail Call Optimization，尾调用优化）、STC（Syntactic Tail Call，语法级尾调用），以及它们的区别、原理，还会讨论主流JavaScript引擎对它们的实现。
 date: 2017-12-15
-cover: https://blog.static.minfive.com/post/17-12-15/t01d30ac70f52b5f7d5.png
+cover: http://blog.static.minfive.com/post/17-12-15/t01d30ac70f52b5f7d5.png
 categories: 文章转发
 tags:
     - 转发
@@ -496,8 +496,8 @@ function factorial(n, total = 1) {
 谢谢阅读！
 
 [article]: http://lucasfcosta.com/2017/02/17/JavaScript-Errors-and-Stack-Traces.html
-[factorial-1]: https://blog.static.minfive.com/post/17-12-15/t01a75ef0acd2ea584a.png
-[factorial-2]: https://blog.static.minfive.com/post/17-12-15/t01d30ac70f52b5f7d5.png
+[factorial-1]: http://blog.static.minfive.com/post/17-12-15/t01a75ef0acd2ea584a.png
+[factorial-2]: http://blog.static.minfive.com/post/17-12-15/t01d30ac70f52b5f7d5.png
 [grammar]: https://en.wikipedia.org/wiki/Context-free_grammar
 [fibonacci_number]: https://en.wikipedia.org/wiki/Fibonacci_number
 [reference_article]: http://lucasfcosta.com/2017/02/17/JavaScript-Errors-and-Stack-Traces.html

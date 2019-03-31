@@ -2,7 +2,7 @@
 title: css modules 小试
 subtitle: css modules 顾名思义，即 CSS 的模块化。使得 CSS 也能适用软件工程方法。
 date: 2017-10-04
-cover: https://blog.static.minfive.com/post/17-10-04/css-modules.png
+cover: http://blog.static.minfive.com/post/17-10-04/css-modules.png
 categories: 日常学习
 tags:
     - css

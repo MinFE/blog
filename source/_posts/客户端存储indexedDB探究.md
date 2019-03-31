@@ -2,7 +2,7 @@
 title: 客户端存储indexedDB探究
 subtitle: Indexed Database API,是在浏览器中保存结构化数据的一种数据库。
 date: 2016-05-15
-cover: https://blog.static.minfive.com/post/16-05-15/dbdm-large.png
+cover: http://blog.static.minfive.com/post/16-05-15/dbdm-large.png
 categories: 日常学习
 tags:
     - 学习
@@ -319,8 +319,8 @@ IDBKeyRange对象有4中不同的创建方法：only（）、lowerBound（）、
 唉，写这篇博客真心累啊，期间从广州跑回学校，又从学校跑回广州，来来回回，千山万水！ - -宝宝心里苦啊···唉，还是希望这篇文章对大家有帮助吧。
 
 
-[1]: https://blog.static.minfive.com/post/17-08-07/createObjectStore.png
+[1]: http://blog.static.minfive.com/post/17-08-07/createObjectStore.png
 [2]: https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API
-[3]: https://blog.static.minfive.com/post/17-08-07/transaction.png
-[4]: https://blog.static.minfive.com/post/17-08-07/store.png
-[5]: https://blog.static.minfive.com/post/17-08-07/IDBKeyRange.png
+[3]: http://blog.static.minfive.com/post/17-08-07/transaction.png
+[4]: http://blog.static.minfive.com/post/17-08-07/store.png
+[5]: http://blog.static.minfive.com/post/17-08-07/IDBKeyRange.png

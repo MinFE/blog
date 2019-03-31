@@ -2,7 +2,7 @@
 title: postcss 小试
 subtitle: css 后处理器的小小尝试
 date: 2017-10-02
-cover: https://blog.static.minfive.com/post/17-10-02/postcss.jpg
+cover: http://blog.static.minfive.com/post/17-10-02/postcss.jpg
 categories: 日常学习
 tags:
     - postcss

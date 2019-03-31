@@ -2,7 +2,7 @@
 title: 使用 css 获取用户密码
 subtitle: 使用 css 去捕获用户密码，最容易忽视的往往是最容易出现问题的，安全问题不容小觑。
 date: 2018-02-23
-cover: https://blog.static.minfive.com/post/18-02-23/112054010556572.png
+cover: http://blog.static.minfive.com/post/18-02-23/112054010556572.png
 categories: 日常学习
 tags:
     - css
@@ -52,4 +52,4 @@ input[type="password"][value$="1"] { background-image: url("http://localhost:300
 [CrookedStyleSheets]: https://github.com/jbtronics/CrookedStyleSheets
 [jbtronics]: https://github.com/jbtronics
 [CrookedStyleSheetsDoc]: https://github.com/jbtronics/CrookedStyleSheets/blob/master/docs/README.zh.md
-[code]: https://blog.static.minfive.com/post/18-02-23/code.png
+[code]: http://blog.static.minfive.com/post/18-02-23/code.png

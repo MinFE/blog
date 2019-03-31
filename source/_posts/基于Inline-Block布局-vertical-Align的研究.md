@@ -1,7 +1,7 @@
 ---
 title: 基于Inline-Block布局+vertical-Align的研究
 subtitle: 基于Inline-Block布局+vertical-Align的一些个人理解。
-cover: https://blog.static.minfive.com/post/16-03-22/issue-02.png
+cover: http://blog.static.minfive.com/post/16-03-22/issue-02.png
 date: 2016-03-22
 categories: 日常学习
 tags:
@@ -100,6 +100,6 @@ css代码部分：
 > 第一次写学习笔记，写的不好的地方请大家多多包涵，也请大家不吝啬给出意见，共同学习，共同进步，谢谢大家！
 
 
-[1]: https://blog.static.minfive.com/post/16-03-22/issue-01.png
-[2]: https://blog.static.minfive.com/post/16-03-22/issue-02.png
+[1]: http://blog.static.minfive.com/post/16-03-22/issue-01.png
+[2]: http://blog.static.minfive.com/post/16-03-22/issue-02.png
 [3]: http://www.zhangxinxu.com/wordpress/2010/05/%E6%88%91%E5%AF%B9css-vertical-align%E7%9A%84%E4%B8%80%E4%BA%9B%E7%90%86%E8%A7%A3%E4%B8%8E%E8%AE%A4%E8%AF%86%EF%BC%88%E4%B8%80%EF%BC%89/

@@ -2,7 +2,7 @@
 title: JavaScript代码格式规范
 subtitle: 本风格指南基于“Java语言编程规范”和Crockford的（javascript）编程规范，同时结合作者的经验和喜好做了一些改动—转至《编写可维护的JavaScript》
 date: 2016-04-03
-cover: https://blog.static.minfive.com/post/1-bFFwZak-6N2oH6jS_duvZQ.jpeg
+cover: http://blog.static.minfive.com/post/1-bFFwZak-6N2oH6jS_duvZQ.jpeg
 categories: 日常学习
 tags:
     - 学习
